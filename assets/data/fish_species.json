@@ -1,0 +1,500 @@
+{
+  "fish_species": {
+    "bangus": {
+      "common_name": "Bangus (Milkfish)",
+      "scientific_name": "Chanos chanos",
+      "habitat": "Coastal waters, estuaries, and brackish water environments",
+      "range": "Indo-Pacific region, commonly found in Philippines and Southeast Asia",
+      "diet": "Omnivore - algae, plankton, small invertebrates, and plant matter",
+      "interesting_fact": "Bangus is the national fish of the Philippines and a major aquaculture species",
+      "conservation_status": "Least Concern",
+      "size": "3-6 feet (1-1.8 m)",
+      "lifespan": "15-20 years",
+      "fun_facts": [
+        "Has no teeth but uses its pharyngeal mill to grind food",
+        "Can tolerate a wide range of salinity levels",
+        "Important food source and cultural symbol in the Philippines"
+      ]
+    },
+    "big head carp": {
+      "common_name": "Big Head Carp",
+      "scientific_name": "Hypophthalmichthys nobilis",
+      "habitat": "Large rivers, lakes, and reservoirs",
+      "range": "Originally Asia, now found in North America and Europe",
+      "diet": "Filter feeder - zooplankton, phytoplankton, and small particles",
+      "interesting_fact": "Can filter up to 20 gallons of water per hour",
+      "conservation_status": "Least Concern",
+      "size": "2-4 feet (0.6-1.2 m)",
+      "lifespan": "20-25 years",
+      "fun_facts": [
+        "Considered invasive in many waterways",
+        "Can jump up to 10 feet out of water when startled",
+        "Used for biological control of algae blooms"
+      ]
+    },
+    "black spotted barb": {
+      "common_name": "Black Spotted Barb",
+      "scientific_name": "Barbodes binotatus",
+      "habitat": "Freshwater streams, rivers, and lakes",
+      "range": "Southeast Asia, particularly Thailand and Malaysia",
+      "diet": "Omnivore - insects, plants, small crustaceans, and algae",
+      "interesting_fact": "Shows distinct black spots that intensify during breeding season",
+      "conservation_status": "Least Concern",
+      "size": "6-8 inches (15-20 cm)",
+      "lifespan": "5-8 years",
+      "fun_facts": [
+        "Active schooling fish that prefer groups",
+        "Popular in aquaculture and aquarium trade",
+        "Males develop brighter colors during spawning"
+      ]
+    },
+    "catfish": {
+      "common_name": "Catfish",
+      "scientific_name": "Siluriformes",
+      "habitat": "Freshwater rivers, lakes, and ponds worldwide",
+      "range": "Found on all continents except Antarctica",
+      "diet": "Omnivore - fish, insects, crustaceans, plants, and organic matter",
+      "interesting_fact": "Catfish have over 100,000 taste buds all over their body",
+      "conservation_status": "Varies by species",
+      "size": "1-15 feet (0.3-4.5 m) depending on species",
+      "lifespan": "8-60 years depending on species",
+      "fun_facts": [
+        "Use their barbels (whiskers) to locate food in murky water",
+        "Some species can breathe air and survive out of water",
+        "Can produce electrical discharges for navigation and communication"
+      ]
+    },
+    "climbing perch": {
+      "common_name": "Climbing Perch",
+      "scientific_name": "Anabas testudineus",
+      "habitat": "Freshwater ponds, swamps, and rice fields",
+      "range": "Southeast Asia, from India to China and Indonesia",
+      "diet": "Carnivore - small fish, insects, worms, and crustaceans",
+      "interesting_fact": "Can survive out of water for days and 'walk' on land",
+      "conservation_status": "Least Concern",
+      "size": "6-10 inches (15-25 cm)",
+      "lifespan": "6-8 years",
+      "fun_facts": [
+        "Uses its gill covers and pectoral fins to move on land",
+        "Can breathe air using a labyrinth organ",
+        "Often found in temporary water bodies that dry up"
+      ]
+    },
+    "fourfinger threadfin": {
+      "common_name": "Fourfinger Threadfin",
+      "scientific_name": "Eleutheronema tetradactylum",
+      "habitat": "Coastal waters, estuaries, and river mouths",
+      "range": "Indo-Pacific region, from Red Sea to Australia",
+      "diet": "Carnivore - small fish, crustaceans, and marine worms",
+      "interesting_fact": "Has four long threadlike rays extending from pectoral fins",
+      "conservation_status": "Near Threatened",
+      "size": "6-8 feet (1.8-2.4 m)",
+      "lifespan": "15-20 years",
+      "fun_facts": [
+        "Highly prized for its sweet, firm white meat",
+        "Can detect prey using sensitive thread-like fins",
+        "Important commercial fish in Southeast Asia"
+      ]
+    },
+    "freshwater eel": {
+      "common_name": "Freshwater Eel",
+      "scientific_name": "Anguilla species",
+      "habitat": "Freshwater rivers and lakes, spawns in ocean",
+      "range": "Various species found worldwide",
+      "diet": "Carnivore - fish, crustaceans, worms, and insects",
+      "interesting_fact": "Travels thousands of miles to spawn in the ocean",
+      "conservation_status": "Many species Critically Endangered",
+      "size": "2-6 feet (0.6-1.8 m)",
+      "lifespan": "15-80+ years",
+      "fun_facts": [
+        "Can live for decades in freshwater before returning to sea",
+        "Larvae drift with ocean currents for months",
+        "Can breathe through their skin when out of water"
+      ]
+    },
+    "glass perchlet": {
+      "common_name": "Glass Perchlet",
+      "scientific_name": "Parambassis species",
+      "habitat": "Freshwater and brackish streams, rivers, and estuaries",
+      "range": "Southeast Asia and Australia",
+      "diet": "Carnivore - small fish, insects, and crustaceans",
+      "interesting_fact": "Transparent body allows you to see internal organs",
+      "conservation_status": "Least Concern",
+      "size": "2-4 inches (5-10 cm)",
+      "lifespan": "3-5 years",
+      "fun_facts": [
+        "Popular in aquarium trade due to transparent appearance",
+        "Schools in large groups for protection",
+        "Can change transparency based on stress levels"
+      ]
+    },
+    "goby": {
+      "common_name": "Goby",
+      "scientific_name": "Gobiidae",
+      "habitat": "Marine, brackish, and freshwater environments",
+      "range": "Worldwide distribution",
+      "diet": "Varied - algae, small invertebrates, and organic matter",
+      "interesting_fact": "Largest family of fish with over 2,000 species",
+      "conservation_status": "Varies by species",
+      "size": "0.5-12 inches (1-30 cm)",
+      "lifespan": "1-10 years",
+      "fun_facts": [
+        "Many species have fused pelvic fins forming a suction cup",
+        "Some species can climb waterfalls",
+        "Include the world's smallest vertebrate"
+      ]
+    },
+    "gold fish": {
+      "common_name": "Goldfish",
+      "scientific_name": "Carassius auratus",
+      "habitat": "Freshwater lakes, ponds, and slow-moving rivers",
+      "range": "Originally from East Asia, now found worldwide",
+      "diet": "Omnivore - plants, insects, small crustaceans, and fish eggs",
+      "interesting_fact": "Goldfish can live for over 40 years and grow quite large in proper conditions",
+      "conservation_status": "Not Evaluated (Domesticated)",
+      "size": "6-14 inches (15-35 cm) in the wild",
+      "lifespan": "10-30 years (can live 40+ years)",
+      "fun_facts": [
+        "Goldfish have memories longer than 3 seconds - actually months!",
+        "They can recognize human faces and be trained to perform tricks",
+        "Originally silver-gray, gold color was selectively bred by humans"
+      ]
+    },
+    "gourami": {
+      "common_name": "Gourami",
+      "scientific_name": "Osphronemidae",
+      "habitat": "Freshwater rivers, ponds, and rice paddies in Asia",
+      "range": "Southeast Asia, from India to Malaysia and Indonesia",
+      "diet": "Omnivore - insects, small fish, plants, and algae",
+      "interesting_fact": "Gouramis can breathe air using a labyrinth organ",
+      "conservation_status": "Most species Least Concern",
+      "size": "2-24 inches (5-60 cm) depending on species",
+      "lifespan": "4-8 years",
+      "fun_facts": [
+        "Males build bubble nests to protect their eggs",
+        "Can survive in low-oxygen water by breathing air",
+        "Popular aquarium fish due to their peaceful nature"
+      ]
+    },
+    "grass carp": {
+      "common_name": "Grass Carp",
+      "scientific_name": "Ctenopharyngodon idella",
+      "habitat": "Large rivers, lakes, and reservoirs",
+      "range": "Originally Asia, now introduced worldwide",
+      "diet": "Herbivore - aquatic plants, grass, and algae",
+      "interesting_fact": "Can eat up to 40% of their body weight in plants daily",
+      "conservation_status": "Least Concern",
+      "size": "2-4 feet (0.6-1.2 m)",
+      "lifespan": "15-20 years",
+      "fun_facts": [
+        "Used for biological control of aquatic weeds",
+        "Can jump up to 10 feet out of water",
+        "Requires flowing water to reproduce successfully"
+      ]
+    },
+    "green spotted puffer": {
+      "common_name": "Green Spotted Puffer",
+      "scientific_name": "Tetraodon nigroviridis",
+      "habitat": "Brackish waters, estuaries, and mangrove areas",
+      "range": "Southeast Asia, particularly Thailand and Malaysia",
+      "diet": "Carnivore - snails, crustaceans, and small fish",
+      "interesting_fact": "Can inflate their body to appear larger when threatened",
+      "conservation_status": "Least Concern",
+      "size": "6 inches (15 cm)",
+      "lifespan": "15+ years",
+      "fun_facts": [
+        "Has a beak-like mouth that continuously grows",
+        "Needs hard foods to wear down their constantly growing teeth",
+        "Contains tetrodotoxin, making them poisonous if consumed"
+      ]
+    },
+    "indian carp": {
+      "common_name": "Indian Carp",
+      "scientific_name": "Labeo rohita",
+      "habitat": "Rivers, lakes, and reservoirs",
+      "range": "South Asia, particularly India and Bangladesh",
+      "diet": "Omnivore - algae, aquatic plants, and small organisms",
+      "interesting_fact": "One of the most important aquaculture species in India",
+      "conservation_status": "Least Concern",
+      "size": "3-6 feet (1-1.8 m)",
+      "lifespan": "15-25 years",
+      "fun_facts": [
+        "Known as 'Rohu' in local languages",
+        "Can tolerate a wide range of water conditions",
+        "Forms the backbone of carp polyculture systems"
+      ]
+    },
+    "indo-pacific tarpon": {
+      "common_name": "Indo-Pacific Tarpon",
+      "scientific_name": "Megalops cyprinoides",
+      "habitat": "Coastal waters, estuaries, and freshwater rivers",
+      "range": "Indo-Pacific region from East Africa to Australia",
+      "diet": "Carnivore - fish, crustaceans, and cephalopods",
+      "interesting_fact": "Can leap up to 10 feet out of water when hooked",
+      "conservation_status": "Data Deficient",
+      "size": "3-5 feet (1-1.5 m)",
+      "lifespan": "30-50 years",
+      "fun_facts": [
+        "Has a swim bladder that allows it to breathe air",
+        "Highly prized by sport fishermen for their fighting ability",
+        "Can tolerate both fresh and saltwater environments"
+      ]
+    },
+    "jaguar gapote": {
+      "common_name": "Jaguar Gapote",
+      "scientific_name": "Parachromis managuensis",
+      "habitat": "Freshwater lakes, rivers, and large streams",
+      "range": "Central America, from Mexico to Costa Rica",
+      "diet": "Carnivore - fish, crustaceans, and aquatic insects",
+      "interesting_fact": "Named for its spotted pattern resembling a jaguar",
+      "conservation_status": "Least Concern",
+      "size": "12-16 inches (30-40 cm)",
+      "lifespan": "10-15 years",
+      "fun_facts": [
+        "Highly aggressive predator with powerful jaws",
+        "Can survive in polluted waters where other fish cannot",
+        "Popular in aquaculture for its hardy nature"
+      ]
+    },
+    "janitor fish": {
+      "common_name": "Janitor Fish (Pleco)",
+      "scientific_name": "Pterygoplichthys species",
+      "habitat": "Rivers, streams, and freshwater systems",
+      "range": "Originally South America, now found worldwide",
+      "diet": "Omnivore - algae, plants, and organic debris",
+      "interesting_fact": "Called 'janitor fish' because they clean algae from surfaces",
+      "conservation_status": "Least Concern (invasive in many areas)",
+      "size": "12-18 inches (30-45 cm)",
+      "lifespan": "10-15 years",
+      "fun_facts": [
+        "Can breathe air and survive out of water for hours",
+        "Considered invasive in many tropical countries",
+        "Popular in aquarium trade as algae eaters"
+      ]
+    },
+    "knifefish": {
+      "common_name": "Knifefish",
+      "scientific_name": "Gymnotiformes",
+      "habitat": "Freshwater rivers, streams, and floodplains",
+      "range": "South and Central America",
+      "diet": "Carnivore - small fish, insects, and invertebrates",
+      "interesting_fact": "Can generate electrical fields for navigation and communication",
+      "conservation_status": "Varies by species",
+      "size": "6-60 inches (15-150 cm) depending on species",
+      "lifespan": "10-20 years",
+      "fun_facts": [
+        "Swim by undulating their long anal fin",
+        "Can swim backwards as easily as forwards",
+        "Use electrical discharges to 'see' in murky water"
+      ]
+    },
+    "long-snouted pipefish": {
+      "common_name": "Long-Snouted Pipefish",
+      "scientific_name": "Syngnathus acus",
+      "habitat": "Seagrass beds, estuaries, and shallow coastal waters",
+      "range": "Eastern Atlantic and Mediterranean",
+      "diet": "Carnivore - small crustaceans and fish larvae",
+      "interesting_fact": "Males carry the eggs in a brood pouch until they hatch",
+      "conservation_status": "Least Concern",
+      "size": "12-18 inches (30-45 cm)",
+      "lifespan": "5-7 years",
+      "fun_facts": [
+        "Related to seahorses and share similar breeding behavior",
+        "Can change color to match their surroundings",
+        "Sucks up prey like a living straw"
+      ]
+    },
+    "mosquito fish": {
+      "common_name": "Mosquito Fish",
+      "scientific_name": "Gambusia affinis",
+      "habitat": "Freshwater ponds, streams, and marshes",
+      "range": "Originally North America, now introduced worldwide",
+      "diet": "Carnivore - mosquito larvae, small insects, and fish fry",
+      "interesting_fact": "Introduced worldwide to control mosquito populations",
+      "conservation_status": "Least Concern",
+      "size": "1-2.5 inches (2.5-6 cm)",
+      "lifespan": "2-3 years",
+      "fun_facts": [
+        "Can eat up to 100 mosquito larvae per day",
+        "Gives birth to live young rather than laying eggs",
+        "Can survive in polluted water conditions"
+      ]
+    },
+    "mudfish": {
+      "common_name": "Mudfish",
+      "scientific_name": "Channa species",
+      "habitat": "Shallow waters, swamps, and muddy areas",
+      "range": "Asia and Africa",
+      "diet": "Carnivore - fish, frogs, and aquatic animals",
+      "interesting_fact": "Can burrow in mud and survive dry seasons",
+      "conservation_status": "Varies by species",
+      "size": "6-36 inches (15-90 cm)",
+      "lifespan": "8-15 years",
+      "fun_facts": [
+        "Can breathe air and survive without water for months",
+        "Excellent parental care with both parents guarding young",
+        "Can move across land to find new water bodies"
+      ]
+    },
+    "mullet": {
+      "common_name": "Mullet",
+      "scientific_name": "Mugilidae",
+      "habitat": "Coastal waters, estuaries, and freshwater rivers",
+      "range": "Worldwide in tropical and temperate waters",
+      "diet": "Omnivore - algae, organic matter, and small organisms",
+      "interesting_fact": "Known for their spectacular jumping ability",
+      "conservation_status": "Most species Least Concern",
+      "size": "12-24 inches (30-60 cm)",
+      "lifespan": "15-20 years",
+      "fun_facts": [
+        "Can jump up to 3 feet out of water",
+        "Have a gizzard-like stomach to grind food",
+        "Important food fish in many coastal communities"
+      ]
+    },
+    "pangasius": {
+      "common_name": "Pangasius (Basa Fish)",
+      "scientific_name": "Pangasius hypophthalmus",
+      "habitat": "Large rivers and deltas, particularly the Mekong River",
+      "range": "Mekong River basin in Southeast Asia",
+      "diet": "Omnivore - fish, crustaceans, mollusks, and plant matter",
+      "interesting_fact": "Pangasius is one of the most farmed fish species globally",
+      "conservation_status": "Critically Endangered in wild",
+      "size": "3-4 feet (1-1.2 m)",
+      "lifespan": "20+ years",
+      "fun_facts": [
+        "Can migrate over 600 miles during spawning season",
+        "Farmed extensively in Vietnam for global export",
+        "Wild populations severely threatened by overfishing and dam construction"
+      ]
+    },
+    "perch": {
+      "common_name": "Perch",
+      "scientific_name": "Perca species",
+      "habitat": "Freshwater lakes, rivers, and ponds",
+      "range": "Europe, Asia, and North America",
+      "diet": "Carnivore - small fish, insects, and crustaceans",
+      "interesting_fact": "Has excellent vision and hunts primarily by sight",
+      "conservation_status": "Least Concern",
+      "size": "6-20 inches (15-50 cm)",
+      "lifespan": "10-25 years",
+      "fun_facts": [
+        "Can change color to match their environment",
+        "Form large schools when young, become solitary when mature",
+        "Important sport and commercial fish"
+      ]
+    },
+    "scat fish": {
+      "common_name": "Scat Fish",
+      "scientific_name": "Scatophagus argus",
+      "habitat": "Brackish waters, estuaries, and mangrove areas",
+      "range": "Indo-Pacific region",
+      "diet": "Omnivore - algae, plants, small fish, and organic matter",
+      "interesting_fact": "Can tolerate extreme changes in salinity",
+      "conservation_status": "Least Concern",
+      "size": "8-12 inches (20-30 cm)",
+      "lifespan": "15-20 years",
+      "fun_facts": [
+        "Popular aquarium fish that can live in fresh or saltwater",
+        "Has a laterally compressed, disc-shaped body",
+        "Can survive in polluted waters where other fish cannot"
+      ]
+    },
+    "silver barb": {
+      "common_name": "Silver Barb",
+      "scientific_name": "Barbonymus gonionotus",
+      "habitat": "Rivers, streams, and freshwater systems",
+      "range": "Southeast Asia",
+      "diet": "Omnivore - plants, algae, insects, and small organisms",
+      "interesting_fact": "Important aquaculture species in Southeast Asia",
+      "conservation_status": "Least Concern",
+      "size": "8-14 inches (20-35 cm)",
+      "lifespan": "8-12 years",
+      "fun_facts": [
+        "Fast-growing fish popular in fish farming",
+        "Can adapt to various water conditions",
+        "Schooling fish that prefer groups"
+      ]
+    },
+    "silver carp": {
+      "common_name": "Silver Carp",
+      "scientific_name": "Hypophthalmichthys molitrix",
+      "habitat": "Large rivers, lakes, and reservoirs",
+      "range": "Originally Asia, now found worldwide",
+      "diet": "Filter feeder - phytoplankton and small organisms",
+      "interesting_fact": "Famous for jumping out of water when boats pass",
+      "conservation_status": "Least Concern",
+      "size": "2-4 feet (0.6-1.2 m)",
+      "lifespan": "15-20 years",
+      "fun_facts": [
+        "Can filter up to 20% of their body weight in plankton daily",
+        "Considered highly invasive in North American waterways",
+        "Can injure boaters by jumping into boats"
+      ]
+    },
+    "silver perch": {
+      "common_name": "Silver Perch",
+      "scientific_name": "Bidyanus bidyanus",
+      "habitat": "Rivers, lakes, and freshwater systems",
+      "range": "Australia",
+      "diet": "Omnivore - insects, plants, and small organisms",
+      "interesting_fact": "Can produce sound by vibrating their swim bladder",
+      "conservation_status": "Vulnerable",
+      "size": "12-16 inches (30-40 cm)",
+      "lifespan": "25-30 years",
+      "fun_facts": [
+        "Important native fish in Australian aquaculture",
+        "Can tolerate a wide range of water temperatures",
+        "Makes grunting sounds during breeding season"
+      ]
+    },
+    "snakehead": {
+      "common_name": "Snakehead Fish",
+      "scientific_name": "Channidae",
+      "habitat": "Freshwater rivers, lakes, and swamps",
+      "range": "Asia and Africa, introduced to some areas of North America",
+      "diet": "Carnivore - fish, frogs, small birds, and aquatic insects",
+      "interesting_fact": "Snakeheads can survive on land for several days",
+      "conservation_status": "Varies by species",
+      "size": "8-40 inches (20-100 cm)",
+      "lifespan": "8-15 years",
+      "fun_facts": [
+        "Can breathe air and move across land between water bodies",
+        "Considered invasive species in many regions",
+        "Excellent parental care with both parents guarding young"
+      ]
+    },
+    "tenpounder": {
+      "common_name": "Tenpounder",
+      "scientific_name": "Elops saurus",
+      "habitat": "Coastal waters, estuaries, and shallow bays",
+      "range": "Atlantic Ocean, Gulf of Mexico, and Caribbean",
+      "diet": "Carnivore - small fish, crustaceans, and marine worms",
+      "interesting_fact": "Named for their tendency to jump repeatedly when caught",
+      "conservation_status": "Least Concern",
+      "size": "2-3 feet (0.6-1 m)",
+      "lifespan": "15-20 years",
+      "fun_facts": [
+        "Can leap up to 6 feet out of water",
+        "Has a complex life cycle with transparent larval stage",
+        "Popular sport fish but not valued for eating"
+      ]
+    },
+    "tilapia": {
+      "common_name": "Tilapia",
+      "scientific_name": "Oreochromis niloticus",
+      "habitat": "Freshwater lakes, rivers, and shallow streams",
+      "range": "Originally Africa, now cultured worldwide",
+      "diet": "Omnivore - algae, aquatic plants, small fish, and invertebrates",
+      "interesting_fact": "Tilapia are excellent parents with mouth-brooding behavior",
+      "conservation_status": "Least Concern",
+      "size": "12-16 inches (30-40 cm)",
+      "lifespan": "6-10 years",
+      "fun_facts": [
+        "Parents carry eggs and fry in their mouths for protection",
+        "Can adapt to various water conditions and temperatures",
+        "One of the most important aquaculture species globally"
+      ]
+    }
+  }
+}
