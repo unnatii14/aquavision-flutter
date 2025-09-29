@@ -8,13 +8,13 @@ A Flutter mobile and web application for AI-powered fish species classification 
 
 ## ✨ Features
 
-- **🎯 Fish Species Classification**: AI-powered identification using EfficientNet-B0
-- **🔍 Similarity Search**: Find similar fish images in the database
-- **📱 Cross-Platform**: Works on Android, iOS, and Web
-- **📸 Camera Integration**: Capture or upload fish images
-- **🎨 Modern UI**: Beautiful, responsive design with animations
-- **🔄 Real-time Processing**: Fast classification with confidence scores
-- **📊 Confidence Validation**: Automatic similarity validation for low-confidence results
+- **Fish Species Classification**: AI-powered identification using EfficientNet-B0
+- **Similarity Search**: Find similar fish images in the database
+- **Cross-Platform**: Works on Android, iOS, and Web
+- **Camera Integration**: Capture or upload fish images
+- **Modern UI**: Beautiful, responsive design with animations
+- **Real-time Processing**: Fast classification with confidence scores
+- **Confidence Validation**: Automatic similarity validation for low-confidence results
 
 ## 🏗️ Architecture
 
