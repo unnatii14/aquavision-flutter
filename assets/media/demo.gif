@@ -1,0 +1,10 @@
+import moviepy.editor as mp
+
+# Load video (make sure filename matches what you uploaded)
+clip = mp.VideoFileClip("WhatsApp Video 2025-10-01 at 16.55.04_ae4c5158.mp4")
+
+# Resize to keep GIF small
+clip = clip.resize(width=480)
+
+# Export as GIF
+clip.write_gif("demo.gif")
