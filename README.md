@@ -25,3 +25,7 @@ A Flutter mobile and web application for AI-powered fish species classification 
 - **HTTP Client**: Dio with robust error handling
 - **UI Framework**: Material Design with custom components
 
+## Demo Preview
+
+![Demo](assets/media/demo.gif)
+
