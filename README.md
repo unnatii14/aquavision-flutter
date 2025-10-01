@@ -6,6 +6,8 @@ A Flutter mobile and web application for AI-powered fish species classification 
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![API](https://img.shields.io/badge/API-FastAPI-009688?style=for-the-badge)
 
+https://github.com/user-attachments/assets/183c3e62-9df2-440d-8439-56d0b42ec191
+
 ## ✨ Features
 
 - **Fish Species Classification**: AI-powered identification using EfficientNet-B0
@@ -24,8 +26,3 @@ A Flutter mobile and web application for AI-powered fish species classification 
 - **State Management**: Provider pattern
 - **HTTP Client**: Dio with robust error handling
 - **UI Framework**: Material Design with custom components
-
-## Demo Preview
-
-![Demo](assets/media/demo.gif)
-
