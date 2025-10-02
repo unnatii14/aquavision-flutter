@@ -26,3 +26,10 @@ https://github.com/user-attachments/assets/183c3e62-9df2-440d-8439-56d0b42ec191
 - **State Management**: Provider pattern
 - **HTTP Client**: Dio with robust error handling
 - **UI Framework**: Material Design with custom components
+
+## Project Ecosystem
+
+This repository is part of a three-tier fish identification system:
+
+- **[Deep Learning Model](https://github.com/Hetvi2211/Fish-Accuracy-Simulation)** - Core ML model for fish species identification and Similarity Search.
+- **[API Backend](https://github.com/unnatii14/fish-classifier-api)** - RESTful API serving the ML model
