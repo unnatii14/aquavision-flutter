@@ -31,7 +31,6 @@ https://github.com/user-attachments/assets/183c3e62-9df2-440d-8439-56d0b42ec191
 
 This repository is part of a three-tier fish identification system:
 
-- **[Deep Learning Model](https://github.com/Hetvi2211/Fish-Accuracy-Simulation)** - Core ML model for fish species identification and Similarity Search.
-- **[API Backend](https://github.com/unnatii14/fish-classifier-api)** - RESTful API serving the ML model
-- **[AquaVision Frontend](https://github.com/unnatii14/aquavision-flutter)** - User interface for fish identification
-
+- **[Deep Learning Model](https://github.com/Hetvi2211/Fish-Accuracy-Simulation)** - Core Deep learning model for fish species identification and Similarity Search.
+- **[API Backend](https://github.com/unnatii14/fish-classifier-api)** - RESTful API serving the Deep learning model
+- **[AquaVision Frontend](https://github.com/unnatii14/aquavision-flutter)** - Flutter Application for fish identification
